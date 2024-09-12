@@ -13,5 +13,5 @@ This project involves a phishing simulation using GoPhish to replicate social en
 - GoPhish configuration files
 - Screenshots and documentation of the phishing campaign
 
-[View the project files here.](https://github.com/Sanyaqouser123/Phishing-Campaign-Simulation)
+
 ------------------------------------------------------------------------------------------------------
