@@ -19,10 +19,10 @@ The following tools were used in this project:
 ## 4. Phishing Campaign Details
 
 ### 4.1 Email Template Code
-The email template was designed to resemble a Google account verification message. You can view the complete email template code in the [email_template.html](./email_template.html) file.
+The email template was designed to resemble a Google account verification message. You can view the complete email template code in the [email_template.html](email_template.html) file.
 
 ### 4.2 Landing Page Code
-This landing page mimics a Google login page where users are prompted to enter their credentials. You can view the complete landing page code in the [landing_page.html](./landing_page.html) file.
+This landing page mimics a Google login page where users are prompted to enter their credentials. You can view the complete landing page code in the [landing_page.html](landing_page.html) file.
 
 ## 6. Screenshots
 Screenshots of the email and landing page can be viewed in the [images](images) directory.
