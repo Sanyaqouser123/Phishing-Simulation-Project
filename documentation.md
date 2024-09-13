@@ -25,7 +25,7 @@ The email template was designed to resemble a Google account verification messag
 This landing page mimics a Google login page where users are prompted to enter their credentials. You can view the complete landing page code in the [landing_page.html](./landing_page.html) file.
 
 ## 6. Screenshots
-Screenshots of the email and landing page can be viewed in the [images](./images/) directory.
+Screenshots of the email and landing page can be viewed in the [images](images) directory.
 
 ## 7. Conclusion
 The phishing simulation demonstrated how social engineering tactics can be used to deceive users into disclosing their credentials. This exercise helps in understanding the potential risks and improving defenses against such attacks.
